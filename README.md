@@ -101,9 +101,4 @@ The long-term vision for AirportIQ is to evolve into a full-scale intelligent tr
 ---
 
 ## Author
-
-Developed by John Russo  
-GitHub: https://github.com/Urssopi
-
-Project Repository:  
-https://github.com/Urssopi/AirportIQ
+John Russo  
