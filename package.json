@@ -1,0 +1,19 @@
+{
+  "name": "airportiq",
+  "private": true,
+  "version": "0.1.0",
+  "description": "AirportIQ — real-time airport intelligence platform",
+  "scripts": {
+    "dev:web": "pnpm --filter @airportiq/web dev",
+    "dev:mobile": "pnpm --filter @airportiq/mobile start",
+    "build:web": "pnpm --filter @airportiq/web build",
+    "typecheck": "pnpm -r --parallel typecheck"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "pnpm": {
+    "overrides": {}
+  }
+}
