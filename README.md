@@ -1,4 +1,4 @@
-# AirportIQ ✈️  
+# AirportIQ   
 ### Intelligent Real-Time Airport & Flight Tracking Platform
 
 AirportIQ is a real-time airport intelligence platform designed to simplify and modernize the airport experience for travelers. The application integrates live airport security wait times, real-time flight tracking, delay and cancellation updates, and intelligent travel recommendations into one sleek and interactive system.
@@ -9,16 +9,16 @@ The idea for AirportIQ was inspired by frequent international travel and the fru
 
 ## Features
 
-- ✈️ Real-time flight tracking  
-- 🛫 Live departure and arrival information  
-- ⏱️ TSA/security checkpoint wait times  
-- 🚨 Delay and cancellation notifications  
-- 📍 Airport-specific flight dashboards  
-- 📧 Automated email alerts and travel updates  
-- 📊 Interactive airport display board interface  
-- 🧠 Smart arrival-time recommendations based on security and flight conditions  
-- 🌐 Real-time API integrations for live airport data  
-- 📱 Modern and responsive user interface  
+-  Real-time flight tracking  
+-  Live departure and arrival information  
+-  TSA/security checkpoint wait times  
+-  Delay and cancellation notifications  
+-  Airport-specific flight dashboards  
+-  Automated email alerts and travel updates  
+-  Interactive airport display board interface  
+-  Smart arrival-time recommendations based on security and flight conditions  
+-  Real-time API integrations for live airport data  
+-  Modern and responsive user interface  
 
 ---
 
